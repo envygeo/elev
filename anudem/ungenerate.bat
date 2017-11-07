@@ -1,0 +1,1 @@
+python d:\b\code\arcplus\ArcToolbox\Scripts\ungenerate.py %*
